@@ -1,0 +1,6 @@
+{
+  "name": "FINGENIX",
+  "description": "FINGENIX is a modern software company that builds premium Android applications, websites, UI/UX designs, and AI-powered solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
